@@ -6,7 +6,8 @@ Returns a json formatted list of cipher modes available in
 ```
 python cipher_types.py
 ```
-[Output sample](docs/images/python_cipher_types.png)
+
+![Output sample](docs/images/python_cipher_types.png "Output Sample")
 
 # Requirements
 This code has been tested on
